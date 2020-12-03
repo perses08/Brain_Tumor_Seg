@@ -1,3 +1,3 @@
 # Brain_Tumor_Seg
 
-Better to open this file in colab
+Better to open ".ipynb" like extention files in colab
